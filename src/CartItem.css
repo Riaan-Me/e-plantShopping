@@ -1,6 +1,13 @@
 /* CartItem.css */
 /* CartItem.css */
 
+.cart-qty-total {
+  fill: white!important;
+  /*font-size: medium;*/
+  font-size: 100px;
+}
+
+
 .cart-item {
   display: flex;
   border-bottom: 1px solid #ccc;
